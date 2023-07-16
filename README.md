@@ -1,3 +1,12 @@
+
+## Learning NextAuth | SakuraDev
+__Youtube: How to Manage Backend JWT Access Tokens in Next Auth and Next.js 13__  
+[https://www.youtube.com/watch?v=fYObrr3jf0w](https://www.youtube.com/watch?v=fYObrr3jf0w)
+<div style="height: 5px; width: 100%; background-color: crimson;"></div>
+<div style="height: 5px; width: 100%; background-color: orange;"></div>
+<hr />
+<hr />
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
